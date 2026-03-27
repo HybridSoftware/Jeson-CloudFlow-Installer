@@ -2,14 +2,5 @@
     "CLOUDFLOW 26.0.5": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_26.00.05_b66951.zip",
     "CLOUDFLOW 25.9.10": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_25.09.10_b66635.zip",
     "CLOUDFLOW 25.6.10": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_25.06.10_b66031.zip",
-    "CLOUDFLOW 25.3.9": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_25.03.09_b64717.zip",
-    "CLOUDFLOW 24.12.5": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_24.12.05_b63353.zip",
-    "CLOUDFLOW 24.9.11": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_24.09.11_b64079.zip",
-    "CLOUDFLOW 24.6.8": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_24.06.08_b59509.zip",
-    "CLOUDFLOW 24.3.7": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_24.03.07_b58082.zip",
-    "CLOUDFLOW 23.12.8": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_23.12.08_b57797.zip",
-    "CLOUDFLOW 23.9.6": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_23.09.06_b55407.zip",
-    "CLOUDFLOW 23.6.8": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_23.06.08_b53344.zip",
-    "CLOUDFLOW 23.3.6": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_vlts_b52582.zip",
-    "CLOUDFLOW 22.12.6": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_vlts_b49520.zip"
+
 }
