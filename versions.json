@@ -1,6 +1,5 @@
 {
     "CLOUDFLOW 26.0.5": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_26.00.05_b66951.zip",
     "CLOUDFLOW 25.9.10": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_25.09.10_b66635.zip",
-    "CLOUDFLOW 25.6.10": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_25.06.10_b66031.zip",
-
+    "CLOUDFLOW 25.6.10": "https://hybrid-gateway.s3-eu-west-1.amazonaws.com/cloudflow/releases/cloudflow_win_25.06.10_b66031.zip"
 }
