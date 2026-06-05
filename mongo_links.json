@@ -31,8 +31,8 @@
         "url": "https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.19.zip",
         "fcv": "8.0"
     },
-    "8.2.5": {
-        "url": "https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.2.5.zip",
+    "8.2.9": {
+        "url": "https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.2.9.zip",
         "fcv": "8.2"
     }
 }
